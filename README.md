@@ -20,42 +20,35 @@ It is a smart stair street light,which light turns off when anyone walkthrough s
 tired of having enough light to safely walk through stair
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+the world first lighting system that turn off when it walk through.guessing where the next step is
 
 ## Technical Details
-### Technologies/Components Used
+### arduino uno
+    ir sensor
+    led
+    foam board
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+arduino ide
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
+- arduino,ir sensor,led
+- [arduino uno:-control the street light
+- ir sensor:- to sense the people
 - [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/file/d/1CwJHihpAKBhB7gruAH4G80cpIwH-DkGJ/view?usp=drivesdk
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1cbn_e_6Y-WDM3TRLhVAIgkPiiyznGnoa/view?usp=drivesdk
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/file/d/1I9Bz8fYYpMrDEcos9HmLr2boEKJHcfaR/view?usp=drivesdk
+it is a smart street light that light turn off when some one walk through
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -70,20 +63,15 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+https://drive.google.com/file/d/1cbn_e_6Y-WDM3TRLhVAIgkPiiyznGnoa/view?usp=drivesdk
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
+create stair by cutting foam board and make a program to turn off light when someone walkthrough in arduino idle software 
 ![Final](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+https://drive.google.com/file/d/18s6aQRu6lChZdoAZJCZQmYnRuK87jXO5/view?usp=drivesdk
 # Additional Demos
 [Add any extra demo materials/links]
 
